@@ -1,4 +1,3 @@
-
 def document():
     def function_description_document():
         """
@@ -6,6 +5,7 @@ def document():
         函数说明文档
         :return:
         """
+
     help(function_description_document)
 
 
